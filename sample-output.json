@@ -1,0 +1,176 @@
+[
+  {
+    "nctId": "NCT07041606",
+    "briefTitle": "An Observational Study of Molecular profIling of Advanced and aggRessive ENdometrial Cancer and 1-st Line Treatment Approaches in Russian Federation",
+    "officialTitle": "Multicenter, Observational, Prospective Study of Molecular Profiling in Advanced and Aggressive Endometrial Cancer Patients and 1-st Line Treatment Approaches in Russian Federation",
+    "orgStudyId": "D0817R00117",
+    "url": "https://clinicaltrials.gov/study/NCT07041606",
+    "overallStatus": "RECRUITING",
+    "leadSponsor": "AstraZeneca",
+    "leadSponsorClass": "INDUSTRY",
+    "conditions": [
+      "Endometrial Cancer"
+    ],
+    "studyType": "OBSERVATIONAL",
+    "enrollmentCount": 500,
+    "enrollmentType": "ESTIMATED",
+    "startDate": "2025-06-24",
+    "completionDate": "2027-06-30",
+    "lastUpdateDate": "2026-09-08",
+    "locationsCount": 19,
+    "countries": [
+      "Russia"
+    ],
+    "primaryOutcomes": [
+      "The rate of POLEm positive status",
+      "The rate of dMMR status and pMMR status detected by IHC and by combined approach of molecular classification",
+      "The rate of p53abn positive status detected by IHC and by combined approach of molecular classification",
+      "The rate of PD-L1 positive status detected by IHC",
+      "The rate of HER2 expression 3+ detected by IHC"
+    ]
+  },
+  {
+    "nctId": "NCT05490433",
+    "briefTitle": "Robot-assisted vs. Open Nipple-sparing Mastectomy With Immediate Breast Reconstruction",
+    "officialTitle": "A Prospective Multicenter Randomized Clinical Trial: Robot-assisted vs. Open Nipple-sparing Mastectomy With Immediate Breast Reconstruction (ROM) Trial",
+    "orgStudyId": "4-2022-0600",
+    "url": "https://clinicaltrials.gov/study/NCT05490433",
+    "overallStatus": "RECRUITING",
+    "leadSponsor": "Yonsei University",
+    "leadSponsorClass": "OTHER",
+    "conditions": [
+      "Breast Cancer Classified as TNM Stage 0-IIIa"
+    ],
+    "keywords": [
+      "Breast cancer"
+    ],
+    "phases": [
+      "NA"
+    ],
+    "studyType": "INTERVENTIONAL",
+    "enrollmentCount": 790,
+    "enrollmentType": "ESTIMATED",
+    "startDate": "2022-10-26",
+    "completionDate": "2032-06",
+    "lastUpdateDate": "2025-11-17",
+    "locationsCount": 17,
+    "countries": [
+      "South Korea"
+    ],
+    "interventionNames": [
+      "Robot-assisted Nipple-Sparing Mastectomy (RNSM)",
+      "Conventional nipple sparing mastectomy(CNSM)"
+    ],
+    "primaryOutcomes": [
+      "5-year disease-free survival rate(DFS)"
+    ]
+  },
+  {
+    "nctId": "NCT06176885",
+    "briefTitle": "Efficacy and Safety of Combined With Immunotherapy After Induction Therapy With Chemotherapy and Targeted Therapy in the First-line Treatment of Microsatellite Stable (MSS) Initially Unresectable Metastatic Colorectal Cancer",
+    "officialTitle": "Efficacy and Safety of Camrelizumab Combined With Irinotecan, Leucovorin and Fluorouracil (FOLFIRI) Chemotherapy and Bevacizumab Targeted Induction Therapy in the First-line Treatment of Microsatellite Stable (MSS) Initially Unresectable Metastatic Colorectal Cancer: a Prospective, Multicenter, Single-arm Study",
+    "orgStudyId": "321000",
+    "url": "https://clinicaltrials.gov/study/NCT06176885",
+    "overallStatus": "RECRUITING",
+    "leadSponsor": "yue junhan",
+    "leadSponsorClass": "OTHER",
+    "conditions": [
+      "Colorectal Cancer"
+    ],
+    "keywords": [
+      "colorectal cancer",
+      "Hepatopulmonary metastasis",
+      "Camrelizumab",
+      "MSS",
+      "Bevacizumab"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "studyType": "INTERVENTIONAL",
+    "enrollmentCount": 36,
+    "enrollmentType": "ESTIMATED",
+    "startDate": "2023-12-20",
+    "completionDate": "2026-12-20",
+    "lastUpdateDate": "2023-12-27",
+    "locationsCount": 1,
+    "countries": [
+      "China"
+    ],
+    "interventionNames": [
+      "Camrelizumab"
+    ],
+    "primaryOutcomes": [
+      "PFS（Disease-free Survival）"
+    ]
+  },
+  {
+    "nctId": "NCT04586478",
+    "briefTitle": "Phase II Clinical Trial of CNCT19 Cell Injection in the Treatment of Relapsed or Refractory Non-Hodgkin's Lymphoma",
+    "officialTitle": "Phase II Clinical Trial of CNCT19 Cell Injection in the Treatment of Relapsed or Refractory Non-Hodgkin's Lymphoma",
+    "orgStudyId": "HY001205",
+    "url": "https://clinicaltrials.gov/study/NCT04586478",
+    "overallStatus": "RECRUITING",
+    "leadSponsor": "Juventas Cell Therapy Ltd.",
+    "leadSponsorClass": "INDUSTRY",
+    "conditions": [
+      "Non-Hodgkin's Lymphoma"
+    ],
+    "phases": [
+      "PHASE2"
+    ],
+    "studyType": "INTERVENTIONAL",
+    "enrollmentCount": 60,
+    "enrollmentType": "ESTIMATED",
+    "startDate": "2020-10-26",
+    "completionDate": "2025-09-30",
+    "lastUpdateDate": "2025-02-07",
+    "locationsCount": 17,
+    "countries": [
+      "China"
+    ],
+    "interventionNames": [
+      "single dose of CNCT19"
+    ],
+    "primaryOutcomes": [
+      "Overall Remission Rate (ORR), which includes Complete Remission (CR) and Partial Remission (PR)"
+    ]
+  },
+  {
+    "nctId": "NCT06745908",
+    "briefTitle": "Clinical Trial of N-803 Plus Tislelizumab or Prior Failed Immune Checkpoint Inhibitor and Docetaxel Versus Docetaxel Monotherapy in Participants With Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Acquired Resistance to Immune Checkpoint Inhibitor Therapy",
+    "officialTitle": "Randomized, Two-Cohort, Open-Label, Phase 3 Clinical Trial of N-803 Plus Tislelizumab or Prior Failed Immune Checkpoint Inhibitor and Docetaxel Versus Docetaxel Monotherapy in Participants With Advanced or Metastatic Non-Small Cell Lung Cancer Who Have Acquired Resistance to Immune Checkpoint Inhibitor Therapy",
+    "orgStudyId": "ResQ201A-NSCLC",
+    "url": "https://clinicaltrials.gov/study/NCT06745908",
+    "overallStatus": "RECRUITING",
+    "leadSponsor": "ImmunityBio, Inc.",
+    "leadSponsorClass": "INDUSTRY",
+    "conditions": [
+      "NSCLC Stage IV"
+    ],
+    "phases": [
+      "PHASE3"
+    ],
+    "studyType": "INTERVENTIONAL",
+    "enrollmentCount": 507,
+    "enrollmentType": "ESTIMATED",
+    "startDate": "2025-10-01",
+    "completionDate": "2029-01",
+    "lastUpdateDate": "2026-11-02",
+    "locationsCount": 49,
+    "countries": [
+      "United States",
+      "Canada",
+      "United Kingdom"
+    ],
+    "interventionNames": [
+      "N-803",
+      "Tislelizumab",
+      "Docetaxel",
+      "Prior failed checkpoint inhibitor"
+    ],
+    "primaryOutcomes": [
+      "Compare Overall Survival between the experimental and control arms"
+    ]
+  }
+]
