@@ -13,7 +13,7 @@
           ]
         }
       },
-      "id": "699f104b-23f0-4f4c-9e6f-69c182f1d69f",
+      "id": "e9eddba1-1c6f-45c3-a81c-bf771575bf37",
       "name": "Run every morning",
       "type": "n8n-nodes-base.scheduleTrigger",
       "typeVersion": 1.2,
@@ -41,7 +41,7 @@
         "build": "latest",
         "authentication": "apifyApi"
       },
-      "id": "5492c846-1808-4a1e-bfe0-2bed30d701c0",
+      "id": "2b5ab704-8958-48ef-aa52-8474f254ff23",
       "name": "Run ClinicalTrials.gov Scraper",
       "type": "@apify/n8n-nodes-apify.apify",
       "typeVersion": 1,
@@ -64,7 +64,7 @@
         "jsonBody": "={{ $json }}",
         "options": {}
       },
-      "id": "d809b38c-4c26-4699-bab1-6077a59ede79",
+      "id": "212f5e8b-b3b5-44d6-9794-22b9aeae9525",
       "name": "Send results to webhook",
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
